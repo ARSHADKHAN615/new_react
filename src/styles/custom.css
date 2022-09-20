@@ -1,0 +1,9 @@
+.navLinks{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+.navLinks li{
+   margin-right: 0.8rem;
+}
